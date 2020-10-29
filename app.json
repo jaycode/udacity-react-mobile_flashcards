@@ -1,0 +1,12 @@
+{
+  "name": "udacity-react-mobile_flashcards",
+  "displayName": "udacity-react-mobile_flashcards",
+  "expo": {
+    "name": "udacity-react-mobile_flashcards",
+    "slug": "udacity-react-mobile_flashcards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
