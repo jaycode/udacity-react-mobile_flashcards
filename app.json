@@ -7,6 +7,8 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "Android app to manage flash cards.\n\nFeatures:\n\n1. Add and delete Decks\n2. Add Cards into a Deck.\n3. Add questions and answers into a Card.\n4. Play the Quiz with a Deck.",
+    "githubUrl": "https://github.com/jaycode/udacity-react-mobile_flashcards"
   }
 }
